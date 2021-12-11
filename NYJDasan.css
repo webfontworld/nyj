@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'NYJDasan';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanMedium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanMedium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanMedium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanMedium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanMedium.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NYJDasan';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJDasanBold.ttf') format("truetype");
+    font-display: swap;
+} 

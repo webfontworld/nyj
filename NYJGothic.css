@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'NYJGothic';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicLight.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicLight.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicLight.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicLight.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NYJGothic';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicMedium.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicMedium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicMedium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicMedium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicMedium.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NYJGothic';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicBold.ttf') format("truetype");
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NYJGothic';
+    font-weight: 800;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicExtraBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicExtraBold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicExtraBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/nyj/NYJGothicExtraBold.ttf') format("truetype");
+    font-display: swap;
+} 
